@@ -17,7 +17,7 @@ Unlike traditional AI systems that focus on storing information or retrieving do
 
 The latest research proposal is available here:
 
-**TeachDB_Research_Proposal_v5.pdf**
+**[TeachDB Research Proposal Version 5 (PDF)](TeachDB_Research_Proposal_v5.pdf)**
 
 ### Author
 
