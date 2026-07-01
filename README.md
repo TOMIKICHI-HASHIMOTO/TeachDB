@@ -1,4 +1,5 @@
 # TeachDB
+TeachDB proposes that reasoning—not information—should become the fundamental unit of knowledge preservation.
 
 ## A Knowledge Architecture for Human–AI Collaborative Thinking
 
