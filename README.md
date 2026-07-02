@@ -1,5 +1,8 @@
 # TeachDB
 
+🌐 Live Demo
+https://incandescent-starlight-234f6d.netlify.app/
+
 > **TeachDB proposes a conceptual architecture for growing AI through accumulated human reasoning.**
 
 ---
